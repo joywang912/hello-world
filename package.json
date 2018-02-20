@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joywang912.github.io/hello-world",
+  "homepage": "http://joywang912.github.io/hello-world",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
